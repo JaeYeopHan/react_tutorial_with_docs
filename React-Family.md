@@ -1,4 +1,5 @@
 # [React] 0. React Family를 소개합니다.
+(진행중)
 [어마어마한 React 생태계, awesome-react](https://github.com/enaqx/awesome-react)
 
 ## React
